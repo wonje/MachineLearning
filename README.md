@@ -2,6 +2,8 @@
 This is machine learning class individual project. 
 It uses two ways of classfication, perceptron classfication and naive bayes classfication.
 
+This project is written in Java with Intellij IDE.
+
 ### Data set
 The dataset, in the "txt_sentoken" folder, contains each of 1000 positive and negative movie review as .txt file.
 In this step, the program converts data in .txt files to labeled data to use next step.
